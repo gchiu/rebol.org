@@ -6,6 +6,7 @@
 - Nick Antonaccio (rebolforum)
 - Grant Wesley Parks (facebook)
 - Barry Walsh (SO chat)
+- Chris Ross-Gill (SO chat - USA summer)
 
 ## Sponsors
 
