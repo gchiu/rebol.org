@@ -8,7 +8,8 @@
 
 ## Sponsors
 
-- NickA (rebolforum)
+- NickA (rebolforum - hosting fees)
 - Bo (AltMe)
 - Steven White (AltMe)
 - Guiseppe Chillemi (AltMe)
+- Arnold van Hofwegen (AltMe - EU5/annum)
