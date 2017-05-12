@@ -3,14 +3,14 @@
 ## To manage the site
 
 - Graham Chiu (AltME)
-- NickA (rebolforum)
+- Nick Antonaccio (rebolforum)
 - Grant Wesley Parks (facebook)
 - Barry Walsh (SO chat)
 
 ## Sponsors
 
-- NickA (rebolforum - hosting fees)
-- Bo (AltMe)
+- Nick Antonaccio (rebolforum - hosting fees)
+- Bohdan Lechnowsky - RespecTech Ltd (AltMe)
 - Steven White (AltMe)
 - Guiseppe Chillemi (AltMe)
 - Arnold van Hofwegen (AltMe - EU5/annum)
