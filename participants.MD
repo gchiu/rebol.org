@@ -5,6 +5,7 @@
 - Graham Chiu (AltME)
 - NickA (rebolforum)
 - Grant Wesley Parks (facebook)
+- Barry Walsh (SO chat)
 
 ## Sponsors
 
@@ -14,3 +15,5 @@
 - Guiseppe Chillemi (AltMe)
 - Arnold van Hofwegen (AltMe - EU5/annum)
 - Brian Dickens (SO chat - towards development costs)
+- Barry Walsh (SO chat)
+
