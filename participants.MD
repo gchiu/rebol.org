@@ -13,3 +13,4 @@
 - Steven White (AltMe)
 - Guiseppe Chillemi (AltMe)
 - Arnold van Hofwegen (AltMe - EU5/annum)
+- Brian Dickens (SO chat - towards development costs)
