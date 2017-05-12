@@ -12,3 +12,4 @@
 - Bo (AltMe)
 - Steven White (AltMe)
 - Guiseppe Chillemi (AltMe)
+- Arnold van Hofwegen (Rebolforum/AltME) (5 EUR/year)
