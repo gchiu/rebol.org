@@ -4,7 +4,7 @@
 
 - Graham Chiu (AltME)
 - NickA (rebolforum)
-- Grant Weskley Parks (facebook)
+- Grant Wesley Parks (facebook)
 
 ## Sponsors
 
